@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Ars Longa</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+</head>
+
+<body>
+	
+<div id="header">
+        <div id="logo">
+            <span>ARS LONGA</span>
+        </div>
+        
+        <div id="border">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">École</a></li>
+                        <li><a href="../html/m2.html">Formation</a>
+                            <ul>
+                                <li><a href="../html/m2_sm1.html">cours en studio</a></li>
+                                <li><a href="../html/m2_sm2.html">cours en ligne</a></li>
+                            </ul>    
+                        </li>
+                        <li><a href="../html/m3.html">Professeurs</a></li>
+                        <li><a href="../html/m4.html">Agenda</a></li>
+                        <li><a href="../html/m5.html">Galerie</a>
+                            <ul>
+                                <li><a href="../html/m5_sm1.html">l'école</a></li>
+                                <li><a href="../html/m5_sm2.html">travaux des étudiants</a></li>
+                            </ul>    
+                        </li>
+                        <li><a href="../html/m6.html">Contact</a></li>
+                    </ul>
+                </nav>
+                
+                <div id="phone">
+                    <p>+352 621 648 345</p>
+                </div>
+                
+                <div class="social">
+                    <a href="www.facebook.com"><img src="images/facebook1.png"></a>
+                    <a href="www.twitter.com"><img src="images/twitter-logo-silhouette1.png"></a>
+                    <a href="www.instagram.com"><img src="images/instagram1.png"></a>
+                </div>
+                
+                <div id="title">
+                    <h1>Formation professionnelle <br> en art </h1>
+                    <p>Il n'y a pas de beaux-arts, ni de mauvais-arts, il n'y a que <br> de l'art et si peu d'art.</p>
+                </div>
+                
+                <div class="arrow">
+                    <img src="../images/down-arrow.png">
+                </div>
+                
+               
+					<button class="btn" type="button">
+						<a href="#">Réservez votre séance</a>
+					</button>
+                
+        </div>
+    </div>
+	<!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->
+	
+	<footer>
+        <div id="footer_content">
+         
+               
+                   
+           <div class="footer_list">
+               <h3>École ARS LONGA</h3>
+               <ul>
+                  <li><a href="index.html">Ecole</a></li>
+                  <li><a href="m2.html">Formation</a></li>
+                  <li><a href="m3.html">Professeurs</a></li>
+               </ul>
+           
+               <ul>
+                  <li><a href="m4.html">Agenda</a></li>
+                  <li><a href="m5.html">Gallerie</a></li>
+                  <li><a href="m6.html">Contact</a></li>
+               </ul>
+           </div>
+          
+          
+          <div id="form_footer">
+             <h3>Contactez-nous</h3>
+             <form action="index.html" method="get">
+                 <div class="form_row">
+                     <input type="email" placeholder="Votre email" name="email">
+                 </div>
+                 <div class="form_row">
+                     <textarea placeholder="Votre message" name="text"></textarea>
+                 </div>
+               <div class="form_row">
+                     <input type="submit" value="envoyer">
+               </div>
+             </form>
+          </div>
+          
+          
+          <div id="social_footer">
+              <h3>Suivez-nous</h3>
+              <div class="social">
+                       <a href="www.facebook.com"><img src="../images/facebook1.png"></a>
+                       <a href="www.twitter.com"><img src="../images/twitter-logo-silhouette1.png"></a>
+                       <a href="www.instagram.com"><img src="../images/instagram1.png"></a>
+              </div>
+          </div>
+       
+         
+        </div>          
+
+           
+       
+        
+    </footer>
+	
+	
+</body>
+</html>
